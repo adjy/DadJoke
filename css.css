@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+.joke{
+    margin: 10px 0;
+    background: antiquewhite;
+    padding: 15px;
+
+    font-family: 'Architects Daughter', cursive;
+    font-size: 1.3em;
+}
+
+.affichage{
+    margin: 10px 0;
+    background: antiquewhite;
+    padding: 2px;
+
+    font-family: 'Architects Daughter', cursive;
+    font-size: 1em;
+}
+
+#paginations{
+    /*display: flex;*/
+    /*justify-content: center;*/
+
+    /*margin: 10px 10px;*/
+    background: antiquewhite;
+    /*padding: 2px;*/
+
+    font-family: 'Architects Daughter', cursive;
+    font-size: 1em;
+
+}
